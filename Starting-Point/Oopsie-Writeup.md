@@ -116,7 +116,7 @@ We need to execute a command from our new shell command line to make it function
 ```python3 -c 'import pty;pty.spawn("/bin/bash")'```
 
 
-## Lateral Movement
+## Internal Enumeration
 
 ### **1. Perform more reconnaissance**
 
