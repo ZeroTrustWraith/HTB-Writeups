@@ -49,7 +49,6 @@ Upon inspection, we can see the mention of a user named "Daniel." We can now try
 
 ## Foothold
 -----------------------------------------------------------------------------------------------------------
-
 ### 1. Back to Hacktricks
 
 Under the "main attacks" we  see a payload: 
@@ -104,7 +103,7 @@ Type ```sudo chmod 400 id_rsa```
 
 ### 6. Connecting to SSH
 
-From your terminal, type ```ssh -i id_rsa daniel@<target_IP>
+From your terminal, type ```ssh -i id_rsa daniel@<target_IP>```
 
 ## Privilege Escalation
 -----------------------------------------------------------------------------------------------------------
