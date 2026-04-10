@@ -1,4 +1,5 @@
-# Oopsie Write-Up - by pacmanSyu (AKA ZeroTrustWraith)
+# Oopsie Write-Up 
+by ZeroTrustWraith
 
 This write-up was written using the help of the official write-up (no author attribution in the official write-up). However, there were some gaps in the official write-up. Due to those gaps, I wrote this write-up to provide more clarity and a better learning experience to demonstrate how malicious actors think and move through systems. For the best learning experience, do not skip any steps. If you have questions on how something works, use external resources.
 
