@@ -1,4 +1,5 @@
-# Markup Writeup | April 7, 2026 | ZeroTrustWraith
+# Markup Writeup 
+| April 7, 2026 | by ZeroTrustWraith |
 
 ## Enumeration
 -----------------------------------------------------------------------------------------------------------
