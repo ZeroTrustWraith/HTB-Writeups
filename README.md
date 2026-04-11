@@ -24,7 +24,7 @@ This repository is very simple. Since Hack the Box does not allow write-ups for 
 
 Note: While I only have two Starting-Point write-ups, I did those ones specifically because they actually had the biggest logical gaps between the official write-ups and the actual proof-of-concept application of the penetration testing skills. 
 
-At a later date, I will go back and turn hose two write-ups into official PDFs rather than plain Markdown write-ups. Additionally, I will go back through Starting-Point on a fresh account at some point and create my own version of the write-ups with more rigourous academic explanations behind the skills being taught. 
+At a later date, I will go back and turn those two write-ups into official PDFs rather than plain Markdown write-ups. Additionally, I will go back through Starting-Point on a fresh account at some point and create my own version of the write-ups with more rigorous academic explanations behind the skills being taught. 
 
 > **"Every machine is haunted until verified otherwise. Zero-Trust is the only ritual that keeps the ghosts out."**
 >
