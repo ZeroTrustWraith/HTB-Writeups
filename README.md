@@ -26,7 +26,7 @@ Note: While I only have two Starting-Point write-ups, I did those ones specifica
 
 At a later date, I will go back and turn hose two write-ups into official PDFs rather than plain Markdown write-ups. Additionally, I will go back through Starting-Point on a fresh account at some point and create my own version of the write-ups with more rigourous academic explanations behind the skills being taught. 
 
-- ZeroTrustWraith
+-- ZeroTrustWraith
 
 "Every machine is haunted until verified otherwise. Zero-Trust is the only ritual that keeps the ghosts out."
     
