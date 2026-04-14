@@ -11,12 +11,6 @@ This repository serves as a detailed write-up collection for Hack The Box machin
 
 I am not seeking to just solve challenges. I am seeking to deconstruct them and understand their inner-workings.
 
-### Mission Statement
-
-Why I Have Chosen to Write In-Depth Write-Ups:
-  * **Filling the Gaps:** Many public and official write-ups provide the *how* but skip the *why*. I document the missing steps, the failed attempts, and the technical hurdles that standard guides gloss over.
-  * **The Learning Loop:** Explaining a complex pivot or a broken exploit is the best way to internalize it. If I can't explain it to a beginner, I don't truly understand it yet.
-  * **Practicality over Syntax:** I prioritize real-world logic over platform-specific syntax. My goal is to develop a methodology that works in a live environment, not just to "guess the flag" in an academic database.
 
 ## Repository Hierarchy Structure
 
