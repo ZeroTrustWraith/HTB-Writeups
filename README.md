@@ -6,21 +6,3 @@ This repository serves as a detailed write-up collection for Hack The Box machin
 ## Author's Disclaimer
 
 **Disclaimer:** These write-ups are intended for educational and ethical secuirty research purposes only. The techniques and vulnerabilities discussed in these write-ups were performed in a controlled, authorized environment on https://wwww.hackthebox.com/. Unauthorized access to computer systems is illegal and may result in criminal charges. The author (ZeroTrustWraith) is not responsible for any misuse of the information provided in these write-ups.
-
-## My Approach to Security & Write-Ups
-
-I am not seeking to just solve challenges. I am seeking to deconstruct them and understand their inner-workings.
-
-
-## Repository Hierarchy Structure
-
-This repository is very simple. Since Hack the Box does not allow write-ups for active machines, I only have two categories: Starting-Point and Retired Machines. While all machines are "retired," the "Retired-Machines" directory is solely for machines that are not part of the Starting-Point learning path for new Hack the Box users. 
-
-Note: While I only have two Starting-Point write-ups, I did those ones specifically because they actually had the biggest logical gaps between the official write-ups and the actual proof-of-concept application of the penetration testing skills. 
-
-At a later date, I will go back and turn those two write-ups into official PDFs rather than plain Markdown write-ups. Additionally, I will go back through Starting-Point on a fresh account at some point and create my own version of the write-ups with more rigorous academic explanations behind the skills being taught. 
-
-
-> **"Every machine is haunted until verified otherwise. Zero-Trust is the only ritual that keeps the ghosts out."**
->
-> -- **ZeroTrustWraith**
